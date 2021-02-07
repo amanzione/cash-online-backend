@@ -4,7 +4,7 @@ Backend para el challenge de cash-online. Proyecto utilizando springboot con mav
 Para iniciar la aplicación:
 
 Clonar el proyecto de git y pararse en la carpeta base. Desde la consola ejecutar el comando
-./mvnw spring-boot:run
+    mvnw spring-boot:run
 
 
 Se proveen datos de prueba para los siguientes usarios que cargan al iniciar la app
